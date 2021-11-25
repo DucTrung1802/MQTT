@@ -1,0 +1,14 @@
+1> Viết 1 app bằng tkinter điều khiển esp thông qua mqtt
+yêu cầu 1. 
+Giao diện app gồm, 1 dòng ID, 1 Password. 3 button, kí hiệu là b1, b2, b3 - sent
+1 slider
+1 dòng gõ token
+2> gửi messange dưới dạng json bao key, ID.
+3> App thứ 2 sẽ nhận dữ liệu và giải mã nó điền vào 1 bộ database. 
+4> 2 cả app đều phải convert sang dạng *.exe
+
+pyinstaller
+
+https://www.emqx.com/en/blog/how-to-use-mqtt-in-python
+
+hiển thị database bằng treeview 
